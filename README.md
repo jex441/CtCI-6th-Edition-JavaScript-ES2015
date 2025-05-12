@@ -1,4 +1,4 @@
-# JavaScript ES2015 solutions to Cracking the Coding Interview
+*# JavaScript ES2015 solutions to Cracking the Coding Interview
 These are solutions and associated unit tests for the questions in Cracking the
 Coding Interview 6th edition using JavaScript ES2015 features. These solutions
 specifically take advantage of ES2015 enhancements to the JavaScript language
